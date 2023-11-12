@@ -1,36 +1,36 @@
 ---
 layout: archive
-title: "Publications"
-permalink: /publications/
+title: "Talks and presentations"
+permalink: /talks/
 author_profile: true
 ---
-
-## In preparation
+Talk: “Surface pCO2 variation regimes in the global ocean and the role of mesoscale eddies.”  2024 Ocean Sciences Meeting, New Orleans, LA, February 2024.
 ___
-* **Guo, Y.** and Timmermans, M-L. (2023). "The role of eddy in ocean pCO2 variability: a global perspective." In prep.
-* **Guo, Y.**, 2023. "Sea surface eddy salinity flux in satellite observations and climate simulations." <i>Journal of Geophysical Research: Oceans, In prep.
-* Bishop, S., **Guo, Y.**, Parfitt, R., Nakamura, H. (2023). "Baroclinic instability efficiency in the Kuroshio Extension between stable and unstable states." <i>Geophysical Research Letters, In prep.
-
-## Under review
+Talk (invited): “Mesoscale transport and the eddy potential energy budget” WHOI Physical Oceanography Seminar, Woods Hole Oceanographic Institution, MA, October 2023. (Postponed to winter 2024)
 ___
-* Cherian, D., **Guo, Y.**, Bryan, F., Shroyer, E. (2023). "Assessing modelled mesoscale stirring using microscale observations." <i>Journal of Physical Oceanography, under review.
-* **Guo, Y.** and Timmermans, M-L. (2023). "Global ocean pCO2 variation regimes: spatial patterns and the emergence of a hybrid regime." <i>Journal of Geophysical Research: Oceans, under review.
-  
-## Published
+Talk: “Mesoscale eddies: the weather of the ocean” Yale EPS Postdoc Seminar, Yale University, New Haven, CT, October 2023.
 ___
-* **Guo, Y.**, Bishop, S., Bryan, F., & Bachman, S. (2023). "Mesoscale variability linked to interannual displacement of Gulf Stream." <i>Geophysical Research Letters<i>, 50, e2022GL102549.
-* Yang, Y., **Guo, Y.**, Zeng, L., and Wang, Q. (2023). "Eddy-induced Sea surface salinity changes in the South China Sea." <i>Frontiers in Marine Science<i> 10:367.
-* **Guo, Y.**, Bachman, S., Bryan, F., and Bishop, S. (2022). "Increasing Trends in Oceanic Surface Poleward Eddy Heat Flux Observed Over the Past Three Decades." <i>Geophysical Research Letters<i>, 49(16), e2022GL099362.
-* **Guo, Y.**, Bishop, S., Bryan, F. and Bachman, S. (2022). "A global diagnosis of eddy potential energy budget in an eddy permitting ocean model." <i>Journal of Physical Oceanography<i>.
-* **Guo, Y.** and Bishop, S.P. (2022). "Surface Divergent Eddy Heat Fluxes and Their Impacts on Mixed Layer Eddy‐Mean Flow Interactions." <i>Journal of Advances in Modeling Earth Systems<i>, 14(4), p.e2021MS002863.
-* Bishop, S. P., **Y. Guo**, F.O. Bryan, & R.J. Small. (2020). "The global sink of available potential energy by mesoscale air-sea interaction." <i>CLIVAR Exchanges<i>, 77 /US CLIVAR Variations, 18, 1; 13–16.
-
-<!-- {% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
-
-{% include base_path %}
-
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %} -->
+Poster: “Ocean pCO2 variation regimes in the global surface ocean.”  2023 Yale Climate Day, New Haven, CT, U.S. May 2023. [Recipient of poster prize awards]
+___
+Talk: “Mesoscale air-sea interaction and the eddy potential energy budget, is it important?”  2022 Ocean Sciences Meeting, virtual. March 2022.
+___
+Talk: “Global role of mesoscale air-sea interaction on eddy energetics in high-resolution ocean and climate models” iHESP annual meeting, Texas A&M university, College Station, Texas, January 2022. (meeting cancelled)
+___
+Talk: “Eddy heat flux and eddy potential energy budget” Oceanography seminar, NCAR, Boulder, October 2021.
+___
+Talk (invited): “Mesoscale air-sea interaction and the eddy potential energy budget, is it important?” ATOC Colloquium, University of Colorado, Boulder, September 2021.
+___
+Talk: “Mid-latitude mesoscale air-sea interaction and the eddy potential energy budget”            
+International Workshop for Mid-latitude Air-sea Interaction, Sapporo, Japan. June 2021. [Recipient of the Early career & Student Presentation Awards]
+___
+Talk: “Mesoscale air-sea interaction and the eddy potential energy budget, is it important?”            
+CESM Ocean Model Working Group Meeting, Boulder, CO, U.S. February 2021.
+___
+Poster: “Interannual variability of observed surface divergent meridional eddy heat fluxes in the Kuroshio Extension and Gulf Stream.”    2020 Ocean Sciences Meeting, San Diego, CA, U.S. February 2020.
+___
+Talk: “Surface Divergent Meridional Eddy Heat Fluxes in the Gulf Stream.” The Middle Atlantic Bight Physical Oceanography and Meteorology (MABPOM) Meeting, Raleigh, NC, U.S. October 2019.
+___
+Talk: “Long-term Estimate of Meridional Eddy Heat Transport in the Ocean Mixed Layer.” MEAS Graduate Student Seminar, North Carolina State University, Raleigh, NC, U.S. March 2019.
+___
+Poster: “Long-term Estimate of Meridional Eddy Heat Transport in the Ocean Mixed Layer.” CLIVAR workshop “Sources and Sinks of Ocean Mesoscale Eddy Energy”, Tallahassee, Fl, U.S. March 2019.
+___
