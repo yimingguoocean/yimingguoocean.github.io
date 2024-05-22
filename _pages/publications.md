@@ -8,8 +8,6 @@ author_profile: true
 ## In preparation
 ___
 * **Guo, Y.** and Timmermans, M-L. (2023). "The role of eddy in ocean pCO2 variability: a global perspective." In prep.
-* **Guo, Y.**, 2023. "Sea surface eddy salinity flux in satellite observations and climate simulations." <i>Journal of Geophysical Research: Oceans, In prep.
-* Bishop, S., **Guo, Y.**, Parfitt, R., Nakamura, H. (2023). "Baroclinic instability efficiency in the Kuroshio Extension between stable and unstable states." <i>Geophysical Research Letters, In prep.
 
 ## Under review
 ___
