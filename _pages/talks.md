@@ -5,7 +5,11 @@ permalink: /talks/
 author_profile: true
 ---
 
+Poster: “The role of ocean mesoscale variability in air-sea CO2 exchange.”  2024 Ocean Carbon & Biogeochemistry (OCB) workshop, Woods Hole, MA, June 2024. <br>
+
 **Talk**: “Surface pCO2 variation regimes in the global ocean and the role of mesoscale eddies.”  2024 Ocean Sciences Meeting, New Orleans, LA, February 2024. <br>
+
+**Talk**: “Surface pCO2 variation regimes in the global ocean”  2024 WHOI Postdoc Symposium, Woods Hole, MA, January 2024. <br>
 
 **Talk (invited)**: “Mesoscale transport and the eddy potential energy budget.” WHOI Physical Oceanography Seminar, Woods Hole Oceanographic Institution, MA, October 2023. (Postponed to winter 2024) <br>
 
