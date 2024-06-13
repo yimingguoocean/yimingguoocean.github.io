@@ -5,7 +5,7 @@ permalink: /talks/
 author_profile: true
 ---
 
-Poster: “The role of ocean mesoscale variability in air-sea CO2 exchange.”  2024 Ocean Carbon & Biogeochemistry (OCB) workshop, Woods Hole, MA, June 2024. <br>
+Poster: “The role of ocean mesoscale variability in air-sea CO2 exchange: Insights from a global 1/10 degree simulation.”  2024 Ocean Carbon & Biogeochemistry (OCB) workshop, Woods Hole, MA, June 2024. <br>
 
 **Talk**: “Surface pCO2 variation regimes in the global ocean and the role of mesoscale eddies.”  2024 Ocean Sciences Meeting, New Orleans, LA, February 2024. <br>
 
