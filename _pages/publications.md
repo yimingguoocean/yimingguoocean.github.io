@@ -5,11 +5,13 @@ permalink: /publications/
 author_profile: true
 ---
 ___
-* **Guo, Y.**, Chen, K., Kim, H., Rheuban, J., Subhas, A., 2024. "Site Selection for Ocean Alkalinity Enhancement in the US Northeast Shelf Region: Perspectives from Passive Tracer Experiments" <i>In preparation<i>.
-* **Guo, Y.** and Timmermans, M-L., (2024c). "Swirling currents: How ocean eddies help modulate carbon absorption and fight climate change" Submitted to <i>Frontiers for Young Minds<i>.
-* **Guo, Y.** and Timmermans, M-L. (2024b). "The role of ocean mesoscale variability in air-sea CO2 exchange: a global perspective" <i>Geophysical Research Letters<i>, 51.10 (2024): e2024GL108373.
-* **Guo, Y.** and Timmermans, M-L. (2024a). "Global ocean pCO2 variation regimes: spatial patterns and the emergence of a hybrid regime" <i>Journal of Geophysical Research Oceans<i>, 129.5 (2024): e2023JC020679.
-* Cherian, D., **Guo, Y.**, Bryan, F. (2024). "Assessing Modeled Mesoscale Stirring Using Microscale Observations" <i>Journal of Physical Oceanography<i>, 54.5 (2024): 1183-1194.
+Marx, L., Rheuban, J., * **Guo, Y.**, Martin, E., McCorkle, D., Wang, Z., Michel, A., Chen, K., Kim, H., Subhas, A., (2024). "Biological site selection criteria framework for offshore ocean alkalinity enhancement." <i>In preparation<i>.
+
+* **Guo, Y.**, Chen, K., Subhas, A., Rheuban, J., Wang, Z., McCorkle, D., Michel, A., Kim, H., (2024). "Site Selection for Ocean Alkalinity Enhancement in the US Northeast Shelf Region: Perspectives from Passive Tracer Experiments." <i>Submitted<i>.
+* **Guo, Y.** and Timmermans, M-L., (2024c). "Swirling currents: How ocean eddies help modulate carbon absorption and fight climate change." Submitted to <i>Frontiers for Young Minds<i>.
+* **Guo, Y.** and Timmermans, M-L. (2024b). "The role of ocean mesoscale variability in air-sea CO2 exchange: a global perspective." <i>Geophysical Research Letters<i>, 51.10 (2024): e2024GL108373. [OCB Science Highlights: https://www.us-ocb.org/mesoscale-affects-airsea-co2/]
+* **Guo, Y.** and Timmermans, M-L. (2024a). "Global ocean pCO2 variation regimes: spatial patterns and the emergence of a hybrid regime." <i>Journal of Geophysical Research Oceans<i>, 129.5 (2024): e2023JC020679.
+* Cherian, D., **Guo, Y.**, Bryan, F. (2024). "Assessing Modeled Mesoscale Stirring Using Microscale Observations." <i>Journal of Physical Oceanography<i>, 54.5 (2024): 1183-1194.
 * **Guo, Y.**, Bishop, S., Bryan, F., & Bachman, S. (2023). "Mesoscale variability linked to interannual displacement of Gulf Stream." <i>Geophysical Research Letters<i>, 50, e2022GL102549.
 * Yang, Y., **Guo, Y.**, Zeng, L., and Wang, Q. (2023). "Eddy-induced Sea surface salinity changes in the South China Sea." <i>Frontiers in Marine Science<i> 10:367.
 * **Guo, Y.**, Bachman, S., Bryan, F., and Bishop, S. (2022). "Increasing Trends in Oceanic Surface Poleward Eddy Heat Flux Observed Over the Past Three Decades." <i>Geophysical Research Letters<i>, 49(16), e2022GL099362.
