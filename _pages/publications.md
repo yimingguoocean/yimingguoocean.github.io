@@ -7,7 +7,8 @@ author_profile: true
 ___
 * Marx, L., Rheuban, J., **Guo, Y.**, Martin, E., McCorkle, D., Wang, Z., Michel, A., Chen, K., Kim, H., Subhas, A., (2024). "Biological site selection criteria framework for offshore ocean alkalinity enhancement." <i>In review<i>.
 * **Guo, Y.**, Chen, K., Subhas, A., Rheuban, J., Wang, Z., McCorkle, D., Michel, A., Kim, H., (2025). "Site selection for ocean alkalinity enhancement informed by passive tracer simulations." <i>Communications: Earth & Environment<i>.
-* **Guo, Y.** and Timmermans, M-L., (2024c). "Swirling currents: How ocean eddies help modulate carbon absorption and fight climate change." Submitted to <i>Frontiers for Young Minds<i>.
+* Subhas, A. V., Rheuban, J. E., Wang, Z. A., ... & **Guo, Y.**, Kim, H., Chen, K., 2025. "A tracer study for the development of in-water monitoring, reporting, and verification (MRV) of ship-based ocean alkalinity enhancement." <i>EGUsphere<i>.
+* **Guo, Y.** and Timmermans, M-L., (2025). "Swirling currents: How ocean eddies help modulate carbon absorption and fight climate change." Submitted to <i>Frontiers for Young Minds<i>.
 * **Guo, Y.** and Timmermans, M-L. (2024b). "The role of ocean mesoscale variability in air-sea CO2 exchange: a global perspective." <i>Geophysical Research Letters<i>, 51.10 (2024): e2024GL108373. [OCB Science Highlights: https://www.us-ocb.org/mesoscale-affects-airsea-co2/]
 * **Guo, Y.** and Timmermans, M-L. (2024a). "Global ocean pCO2 variation regimes: spatial patterns and the emergence of a hybrid regime." <i>Journal of Geophysical Research Oceans<i>, 129.5 (2024): e2023JC020679.
 * Cherian, D., **Guo, Y.**, Bryan, F. (2024). "Assessing Modeled Mesoscale Stirring Using Microscale Observations." <i>Journal of Physical Oceanography<i>, 54.5 (2024): 1183-1194.
