@@ -4,6 +4,10 @@ title: "Talks and presentations"
 permalink: /talks/
 author_profile: true
 ---
+**Talk**: “Site Selection for Ocean Alkalinity Enhancement on the US Northeast Shelf: Perspectives from Passive Tracer Experiments” WHOI Postdoc Symposium, MBL Swope Center, Woods Hole, MA, February 2025.
+
+Poster: “Site Selection for Ocean Alkalinity Enhancement on the US Northeast Shelf: Perspectives from Passive Tracer Experiments” 2024 AGU Fall Meeting, D.C., December 2024.
+
 **Talk (invited)**: “Mesoscale tracer transport in the global ocean” 2024 SMAST DEOS fall seminar series, University of Massachusetts, Dartmouth, MA, September 2024.
 
 **Talk**: “Swirling Currents: How Ocean Eddies Affect Carbon Dioxide Absorption and Fight Climate Change” 2024 Science Communication Workshop, Woods Hole, MA, August 2024.
