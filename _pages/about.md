@@ -7,6 +7,4 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
-I am a Postdoctoral Investigator at Woods Hole Oceanographic Institution with research interest in physical and biogeochemical oceanography. My research combines cutting-edge data from remote sensing, in-situ observations, reanalysis datasets, and high-resolution global models to unravel the complexities of ocean circulations across various scales and their biogeochemical impacts.
-
+I am an Assistant Professor at Illinois State University and a trained oceanographer and climate scientist. My research integrates cutting-edge data from satellite remote sensing, in-situ observations, reanalysis products, and high-resolution global and regional models to unravel the complexities of ocean processes across multiple scales. My interests include ocean dynamics, biogeochemistry, the influence of regional and global climate variability on the ocean, the ocean’s role in the climate system, and its potential to help mitigate climate change. Feel free to reach out if you are seeking graduate student or postdoctoral opportunities.
