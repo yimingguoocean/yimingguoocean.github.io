@@ -5,9 +5,12 @@ permalink: /publications/
 author_profile: true
 ---
 ___
-* Marx, L., Rheuban, J., **Guo, Y.**, Martin, E., McCorkle, D., Wang, Z., Michel, A., Chen, K., Kim, H., Subhas, A., (2024). "Biological site selection criteria framework for offshore ocean alkalinity enhancement." <i>In review<i>.
-* **Guo, Y.**, Chen, K., Subhas, A., Rheuban, J., Wang, Z., McCorkle, D., Michel, A., Kim, H., (2025). "Site selection for ocean alkalinity enhancement informed by passive tracer simulations." <i>Communications: Earth & Environment<i>.
-* Subhas, A. V., Rheuban, J. E., Wang, Z. A., ... & **Guo, Y.**, Kim, H., Chen, K., 2025. "A tracer study for the development of in-water monitoring, reporting, and verification (MRV) of ship-based ocean alkalinity enhancement." <i>EGUsphere<i>.
+
+* **Guo, Y.**, Castillo-Trujillo, A. C., Chen, K., Kwon, Y.-O., Perkins, S., Seo, H., Fratantoni, P., Alexander, M., and Saba, V., (2026). "Multi-Year Predictability of Hydrography and Circulation on the U.S. Northeast Shelf: A Dynamical Downscaling Perspective." <i>EGUsphere<i>.
+* Subhas, A.V., Rheuban, J.E., Kostel, K., Marx, L., Morkeski, K., Hayden, M.G., Lanagan, T., Dean, C., Burkitt-Gray, M., **Guo, Y.** and McCorkle, D.C., (2026). "Field notes on public communication and engagement for the LOC-NESS Ocean Alkalinity Enhancement field trial." <i>ICES Journal of Marine Science<i>.
+* Marx, L., Rheuban, J., McCorkle, D., Christopher M., **Guo, Y.**, Martin, E., Wang, Z., Michel, A., Chen, K., Kim, H., Subhas, A., (2026). "The Ecological Activity Index tool for mapping potential ecosystem exposure to ocean alkalinity enhancement." <i>Nature Communications: Sustainability<i>.
+* **Guo, Y.**, Chen, K., Subhas, A., Rheuban, J., Wang, Z., McCorkle, D., Michel, A., Kim, H., (2025). "Site selection for ocean alkalinity enhancement informed by passive tracer simulations." <i>Nature Communications: Earth & Environment<i>.
+* Subhas, A. V., Rheuban, J. E., Wang, Z. A., ... & **Guo, Y.**, Kim, H., Chen, K., 2025. "A tracer study for the development of in-water monitoring, reporting, and verification (MRV) of ship-based ocean alkalinity enhancement." <i>Biogeosciences<i>.
 * **Guo, Y.** and Timmermans, M-L., (2025). "Swirling currents: How ocean eddies help modulate carbon absorption and fight climate change." 
 <i>Frontiers for Young Minds<i>.
 * **Guo, Y.** and Timmermans, M-L. (2024b). "The role of ocean mesoscale variability in air-sea CO2 exchange: a global perspective." <i>Geophysical Research Letters<i>, 51.10 (2024): e2024GL108373. [OCB Science Highlights: https://www.us-ocb.org/mesoscale-affects-airsea-co2/]
