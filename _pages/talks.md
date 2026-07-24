@@ -4,6 +4,16 @@ title: "Talks and presentations"
 permalink: /talks/
 author_profile: true
 ---
+**Talk (invited)**: “OAE modeling on the U.S. Northeast Shelf: where to deploy and what happens next” Bedford Institute of Oceanography, Dartmouth, NS, Canada, July 2026.
+
+**Talk (invited)**: “OAE modeling on the U.S. Northeast Shelf: where to deploy and what happens next” Department of Oceanography, Dalhousie University, Halifax, NS, Canada, July 2026.
+
+**Talk**: “Searching for hidden swirls in the Great Lakes: what we can (and can’t yet) see” 2026 Illinois Geographic Society Annual Meeting, Ottawa- Starved Rock - Peru, IL, April 2026. [Recipient of annual research grant]
+
+**Talk**: “Does dynamical downscaling improve multiyear prediction skill on the U.S. Northeast continental shelf?” 2026 CESM ESPWG Winter Meeting, Boulder, CO, February 2026 (virtual).
+
+**Talk**: “Modeling Ocean Alkalinity Enhancement in the U.S. Northeast Shelf: Site Selection and Calcification-Enhanced Baseline” 2026 AGU Ocean Sciences Meeting, Glasgow, Scotland, February 2026 (virtual).
+
 **Talk**: “Site Selection for Ocean Alkalinity Enhancement on the US Northeast Shelf: Perspectives from Passive Tracer Experiments” WHOI Postdoc Symposium, MBL Swope Center, Woods Hole, MA, February 2025.
 
 Poster: “Site Selection for Ocean Alkalinity Enhancement on the US Northeast Shelf: Perspectives from Passive Tracer Experiments” 2024 AGU Fall Meeting, D.C., December 2024.
