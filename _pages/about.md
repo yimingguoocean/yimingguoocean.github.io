@@ -35,7 +35,7 @@ redirect_from:
   max-width: 900px;
 }
 .hero-text h1 {
-  font-size: clamp(2.2rem, 5vw, 4rem);
+  font-size: clamp(1.8rem, 4vw, 3rem);
   line-height: 1.05;
   margin: 0 0 0.75rem 0;
   color: #fff;
@@ -141,12 +141,13 @@ redirect_from:
 <div class="hero">
   <img src="/files/frontpage.png" alt="Hero image">
   <div class="hero-text">
-    <h1>Ocean, Lake & Climate Dynamics Lab</h1>
+    <h1>Climate-Ocean-Lake Dynamics (COLD) Lab</h1>
     <h2>Understanding aquatic systems in a changing climate</h2>
     <div class="btn-row">
       <a class="btn-link" href="/research/">Research</a>
+      <a class="btn-link" href="/teaching/">Teaching</a>
       <a class="btn-link" href="/publications/">Publications</a>
-      <a class="btn-link" href="/contact/">Contact</a>
+      <a class="btn-link" href="/talks/">Talks</a>
     </div>
   </div>
 </div>
