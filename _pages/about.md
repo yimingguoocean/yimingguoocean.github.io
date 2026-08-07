@@ -81,46 +81,81 @@ redirect_from:
 
 .cards {
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
-  gap: 1rem;
-  margin-top: 1rem;
-}
-.card {
-  border: 1px solid #e6e6e6;
-  border-radius: 16px;
-  padding: 1.15rem;
-  background: #fff;
-  box-shadow: 0 1px 10px rgba(0,0,0,0.04);
-}
-.card h3 {
-  margin-top: 0.25rem;
-  margin-bottom: 0.55rem;
-  font-size: 1.1rem;
-}
-.card p {
-  margin: 0;
-  font-size: 0.96rem;
-  line-height: 1.6;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 2rem;
+  margin-top: 1.5rem;
 }
 
-.two-column {
+@media (max-width: 900px) {
+  .cards {
+    grid-template-columns: 1fr;
+  }
+}
+  
+.cards {
   display: grid;
-  grid-template-columns: 2fr 1fr;
+  grid-template-columns: repeat(2, minmax(320px, 1fr));
   gap: 2rem;
   margin-top: 2rem;
 }
-.news-list {
-  padding-left: 1.2rem;
+
+.card {
+  display: block;
+  text-decoration: none;
+  color: inherit;
+  border-radius: 18px;
+  overflow: hidden;
+  background: #fff;
+  box-shadow: 0 4px 14px rgba(0,0,0,.08);
+  transition: all .25s ease;
 }
-.news-list li {
-  margin-bottom: 0.6rem;
-  line-height: 1.6;
+
+.card:hover{
+  transform: translateY(-6px);
+  box-shadow:0 10px 24px rgba(0,0,0,.18);
+  text-decoration:none;
 }
-.join {
-  background: #f7f7f7;
-  border-radius: 16px;
-  padding: 1.25rem;
+
+.card img{
+  width:100%;
+  height:260px;
+  object-fit:cover;
+  display:block;
 }
+
+.card-body{
+  padding:1.4rem 1.5rem 1.6rem;
+}
+
+.card h3{
+  margin:0 0 .6rem;
+  font-size:1.45rem;
+  color:#1d3557;
+}
+
+.card p{
+  margin:0;
+  line-height:1.7;
+  font-size:1.03rem;
+  color:#555;
+}
+
+@media(max-width:900px){
+
+.cards{
+
+grid-template-columns:1fr;
+
+}
+
+.card img{
+
+height:220px;
+
+}
+
+}
+  
 
 @media (max-width: 900px) {
   .two-column {
@@ -153,50 +188,97 @@ redirect_from:
 </div>
 
 <p>
-  Welcome to my research website. I am an Assistant Professor at Illinois State University studying the physical processes
-      that govern oceans, lakes, and the climate system. My group ucombines satellite remote
-      sensing, in situ observations, reanalysis products, and high-resolution numerical models
-      to investigate water dynamics, biogeochemistry, and climate variability across scales. We are particularly interested in ocean and       lake dynamics, air–water interactions, carbon cycling, regional and global climate, and nature-based climate solutions.
+  Welcome to the <strong>Climate–Ocean–Lake Dynamics (COLD) Lab</strong> at Illinois State University. We investigate the physical processes governing oceans, lakes, and the climate system by integrating satellite remote sensing, in situ observations, reanalysis products, and high-resolution numerical models. Our research focuses on aquatic dynamics, air–water interactions, carbon cycling, regional and global climate, and nature-based climate solutions, with the goal of improving understanding and prediction of a changing Earth system.
 </p>
 
 <h2 class="section-title">Research Themes</h2>
 
 <div class="cards">
-  <div class="card">
-    <img src="/files/frontpage_ocean.png" alt="Ocean Dynamics">
-    <div class="card-body">
-      <h3>Ocean Dynamics</h3>
-      <p>Mesoscale and submesoscale processes, circulation, heat transport, and climate variability.</p>
-    </div>
-  </div>
 
-  <div class="card">
-    <img src="/files/frontpage_lake.png" alt="Lake Dynamics">
-    <div class="card-body">
-      <h3>Lake Dynamics</h3>
-      <p>Thermal structure, stratification, mixing, and climate impacts on inland waters.</p>
-    </div>
-  </div>
+<a class="card" href="/research/ocean/">
 
-  <div class="card">
-    <img src="/files/frontpage_satellite.png" alt="Remote Sensing">
-    <div class="card-body">
-      <h3>Remote Sensing</h3>
-      <p>Satellite observations, field measurements, and multi-source data integration.</p>
-    </div>
-  </div>
+<img src="/files/frontpage_ocean.png" alt="Ocean Dynamics">
 
-  <div class="card">
-    <img src="/files/frontpage_prediction.png" alt="Modeling & Prediction">
-    <div class="card-body">
-      <h3>Modeling & Prediction</h3>
-      <p>Reanalysis, numerical models, machine learning, and future climate projections.</p>
-    </div>
-  </div>
+<div class="card-body">
+
+<h3>Ocean Dynamics</h3>
+
+<p>
+Investigating ocean circulation, mesoscale and submesoscale
+processes, heat transport, and their roles in regional and
+global climate variability.
+</p>
+
+</div>
+
+</a>
+
+
+
+<a class="card" href="/research/lake/">
+
+<img src="/files/frontpage_lake.png" alt="Lake Dynamics">
+
+<div class="card-body">
+
+<h3>Lake Dynamics</h3>
+
+<p>
+Understanding thermal structure, stratification,
+mixing, and climate impacts on inland waters
+through observations and numerical modeling.
+</p>
+
+</div>
+
+</a>
+
+
+
+<a class="card" href="/research/remote-sensing/">
+
+<img src="/files/frontpage_satellite.png" alt="Remote Sensing">
+
+<div class="card-body">
+
+<h3>Remote Sensing</h3>
+
+<p>
+Developing satellite-based approaches to monitor
+aquatic environments and quantify climate-driven
+changes across regional to global scales.
+</p>
+
+</div>
+
+</a>
+
+
+
+<a class="card" href="/research/modeling/">
+
+<img src="/files/frontpage_prediction.png" alt="Modeling & Prediction">
+
+<div class="card-body">
+
+<h3>Modeling & Prediction</h3>
+
+<p>
+Combining numerical models, reanalysis products,
+and machine learning to improve understanding
+and prediction of aquatic systems.
+</p>
+
+</div>
+
+</a>
+
 </div>
 
 <div class="one-column">
-  #<div>
+  
+  <!--
+  <div>
   #  <h2 class="section-title">News</h2>
   #  <ul class="news-list">
   #    <li><b>2026</b> — Add your latest paper, grant, or conference update here.</li>
@@ -204,16 +286,21 @@ redirect_from:
   #    <li><b>2026</b> — Add another short update here.</li>
   #  </ul>
  # </div>
-
+  -->
+  
   <div class="join">
     <h2>Join Us</h2>
     <p>
       I welcome inquiries from prospective graduate students, postdoctoral researchers, and
       collaborators interested in oceans, lakes, climate, and remote sensing.
     </p>
+    
+  <!--    
     #<p>
     #  <a href="/contact/">Learn more about opportunities →</a>
   # </p>
+  -->
+  
   </div>
 </div>
 
