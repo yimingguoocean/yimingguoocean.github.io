@@ -163,7 +163,7 @@ redirect_from:
 
 <div class="cards">
   <div class="card">
-    <img src="/files/frontpage.png" alt="Ocean Dynamics">
+    <img src="/files/frontpage_ocean.png" alt="Ocean Dynamics">
     <div class="card-body">
       <h3>Ocean Dynamics</h3>
       <p>Mesoscale and submesoscale processes, circulation, heat transport, and climate variability.</p>
