@@ -187,7 +187,7 @@ redirect_from:
   </div>
 
   <div class="card">
-    <img src="/files/frontpage_projection.png" alt="Modeling & Prediction">
+    <img src="/files/frontpage_prediction.png" alt="Modeling & Prediction">
     <div class="card-body">
       <h3>Modeling & Prediction</h3>
       <p>Reanalysis, numerical models, machine learning, and future climate projections.</p>
