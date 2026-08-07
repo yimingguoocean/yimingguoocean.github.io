@@ -139,7 +139,7 @@ redirect_from:
 </style>
 
 <div class="hero">
-  <img src="/images/frontpage.png" alt="Hero image">
+  <img src="/files/frontpage.png" alt="Hero image">
   <div class="hero-text">
     <h1>Ocean, Lake & Climate Dynamics Lab</h1>
     <h2>Understanding aquatic systems in a changing climate</h2>
@@ -159,34 +159,50 @@ redirect_from:
 </p>
 
 <h2 class="section-title">Research Themes</h2>
+
 <div class="cards">
   <div class="card">
-    <h3>Ocean Dynamics</h3>
-    <p>Mesoscale and submesoscale processes, circulation, heat transport, and climate variability.</p>
+    <img src="/files/frontpage.png" alt="Ocean Dynamics">
+    <div class="card-body">
+      <h3>Ocean Dynamics</h3>
+      <p>Mesoscale and submesoscale processes, circulation, heat transport, and climate variability.</p>
+    </div>
   </div>
+
   <div class="card">
-    <h3>Lake Dynamics</h3>
-    <p>Thermal structure, stratification, mixing, and climate impacts on inland waters.</p>
+    <img src="/files/frontpage_lake.png" alt="Lake Dynamics">
+    <div class="card-body">
+      <h3>Lake Dynamics</h3>
+      <p>Thermal structure, stratification, mixing, and climate impacts on inland waters.</p>
+    </div>
   </div>
+
   <div class="card">
-    <h3>Remote Sensing</h3>
-    <p>Satellite observations, field measurements, and multi-source data integration.</p>
+    <img src="/files/frontpage_satellite.png" alt="Remote Sensing">
+    <div class="card-body">
+      <h3>Remote Sensing</h3>
+      <p>Satellite observations, field measurements, and multi-source data integration.</p>
+    </div>
   </div>
+
   <div class="card">
-    <h3>Modeling & Prediction</h3>
-    <p>Reanalysis, numerical models, machine learning, and future climate projections.</p>
+    <img src="/files/frontpage_projection.png" alt="Modeling & Prediction">
+    <div class="card-body">
+      <h3>Modeling & Prediction</h3>
+      <p>Reanalysis, numerical models, machine learning, and future climate projections.</p>
+    </div>
   </div>
 </div>
 
-<div class="two-column">
-  <div>
-    <h2 class="section-title">News</h2>
-    <ul class="news-list">
-      <li><b>2026</b> — Add your latest paper, grant, or conference update here.</li>
-      <li><b>2026</b> — Add a student or lab news item here.</li>
-      <li><b>2026</b> — Add another short update here.</li>
-    </ul>
-  </div>
+<div class="one-column">
+  #<div>
+  #  <h2 class="section-title">News</h2>
+  #  <ul class="news-list">
+  #    <li><b>2026</b> — Add your latest paper, grant, or conference update here.</li>
+  #    <li><b>2026</b> — Add a student or lab news item here.</li>
+  #    <li><b>2026</b> — Add another short update here.</li>
+  #  </ul>
+ # </div>
 
   <div class="join">
     <h2>Join Us</h2>
@@ -194,9 +210,9 @@ redirect_from:
       I welcome inquiries from prospective graduate students, postdoctoral researchers, and
       collaborators interested in oceans, lakes, climate, and remote sensing.
     </p>
-    <p>
-      <a href="/contact/">Learn more about opportunities →</a>
-    </p>
+    #<p>
+    #  <a href="/contact/">Learn more about opportunities →</a>
+  # </p>
   </div>
 </div>
 
