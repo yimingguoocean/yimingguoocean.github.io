@@ -139,7 +139,7 @@ redirect_from:
 </style>
 
 <div class="hero">
-  <img src="/images/hero.jpg" alt="Hero image">
+  <img src="/images/frontpage.png" alt="Hero image">
   <div class="hero-text">
     <h1>Ocean, Lake & Climate Dynamics Lab</h1>
     <h2>Understanding aquatic systems in a changing climate</h2>
