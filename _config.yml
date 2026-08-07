@@ -83,11 +83,7 @@ author:
   name             : "Yiming Guo, Ph.D."
   avatar           : "YimingGuo2.jpeg"
   #bio              : "Scientist and Educator<br> <br> Assistant Professor at Illinois State University, <a style='color: black;' href='https://geo.illinoisstate.edu/'>Department of Geography, Geology, and the Environment</a>"
-  #bio: "Scientist and Educator<br><br><a href='https://geo.illinoisstate.edu/faculty-staff/profile/?ulid=yguo10' target='_blank' style='color:black;'>Assistant Professor</a> at <a href='https://illinoisstate.edu/' target='_blank' style='color:black;'>Illinois State University</a><br><a href='https://geo.illinoisstate.edu/' target='_blank' style='color:black;'>Department of Geography, Geology, and the Environment</a>"
-  bio: "Scientist and Educator<br><br>
-  <a href='https://geo.illinoisstate.edu/faculty-staff/profile/?ulid=yguo10' target='_blank'>Assistant Professor</a><br>
-  <a href='https://geo.illinoisstate.edu/' target='_blank'>Department of Geography, Geology, and the Environment</a>"
-  <a href='https://illinoisstate.edu/' target='_blank'>Illinois State University</a><br>
+  bio: "Scientist and Educator<br><br><a href='https://geo.illinoisstate.edu/faculty-staff/profile/?ulid=yguo10' target='_blank' style='color:black;'>Assistant Professor</a> at <a href='https://illinoisstate.edu/' target='_blank' style='color:black;'>Illinois State University</a><br><a href='https://geo.illinoisstate.edu/' target='_blank' style='color:black;'>Department of Geography, Geology, and the Environment</a>"
   location         : "Location"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
