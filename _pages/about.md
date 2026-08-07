@@ -195,7 +195,7 @@ height:220px;
 
 <div class="cards">
 
-<a class="card" href="/research/ocean/">
+<div class="card" href="/research/ocean/">
 
 <img src="/files/frontpage_ocean.png" alt="Ocean Dynamics">
 
@@ -211,11 +211,11 @@ global climate variability.
 
 </div>
 
-</a>
+</div>
 
 
 
-<a class="card" href="/research/lake/">
+<div class="card" href="/research/lake/">
 
 <img src="/files/frontpage_lake.png" alt="Lake Dynamics">
 
@@ -231,11 +231,11 @@ through observations and numerical modeling.
 
 </div>
 
-</a>
+</div>
 
 
 
-<a class="card" href="/research/remote-sensing/">
+<div class="card" href="/research/remote-sensing/">
 
 <img src="/files/frontpage_satellite.png" alt="Remote Sensing">
 
@@ -251,11 +251,11 @@ changes across regional to global scales.
 
 </div>
 
-</a>
+</div>
 
 
 
-<a class="card" href="/research/modeling/">
+<div class="card" href="/research/modeling/">
 
 <img src="/files/frontpage_prediction.png" alt="Modeling & Prediction">
 
@@ -271,7 +271,7 @@ and prediction of aquatic systems.
 
 </div>
 
-</a>
+</div>
 
 </div>
 
