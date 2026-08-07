@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Home"
+title: " "
 excerpt: "Ocean, Lake, and Climate Dynamics"
 author_profile: true
 redirect_from:
@@ -143,16 +143,6 @@ redirect_from:
   <div class="hero-text">
     <h1>Ocean, Lake & Climate Dynamics Lab</h1>
     <h2>Understanding aquatic systems in a changing climate</h2>
-    <p>
-      I am an Assistant Professor at Illinois State University studying the physical processes
-      that govern oceans, lakes, and the climate system. My research combines satellite remote
-      sensing, in situ observations, reanalysis products, and high-resolution numerical models
-      to investigate water dynamics, biogeochemistry, and climate variability across scales.
-    </p>
-    <p>
-      I am particularly interested in ocean and lake dynamics, air–water interactions, carbon
-      cycling, regional and global climate, and nature-based climate solutions.
-    </p>
     <div class="btn-row">
       <a class="btn-link" href="/research/">Research</a>
       <a class="btn-link" href="/publications/">Publications</a>
@@ -162,9 +152,10 @@ redirect_from:
 </div>
 
 <p>
-  Welcome to my research website. My group uses observations, remote sensing, and modeling to
-  better understand how aquatic systems respond to climate variability, long-term change, and
-  extreme events.
+  Welcome to my research website. I am an Assistant Professor at Illinois State University studying the physical processes
+      that govern oceans, lakes, and the climate system. My group ucombines satellite remote
+      sensing, in situ observations, reanalysis products, and high-resolution numerical models
+      to investigate water dynamics, biogeochemistry, and climate variability across scales. We are particularly interested in ocean and       lake dynamics, air–water interactions, carbon cycling, regional and global climate, and nature-based climate solutions.
 </p>
 
 <h2 class="section-title">Research Themes</h2>
